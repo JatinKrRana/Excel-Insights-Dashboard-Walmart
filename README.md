@@ -1,16 +1,21 @@
-# Excel_Case_Study_Project_On_SupplyChainData
+### **Excel Insights Into Walmart's Supply Chain Performance and Digital Trends**  
 Project Link:- https://drive.google.com/drive/folders/1vRb_orNtJ9DT7G52GbS1d4VJfKtbarXP?usp=sharing
-# Ecommerce
 
-### **Streamline & Spotlight: Unraveling the Narrative of Supply Chain Excellence and Digital Footprints**
+#### **Background:**  
 
-### **Background:**
+Walmart, a global retail giant, continuously seeks to enhance its supply chain efficiency and digital engagement to stay competitive. This case study, **"Excel Insights Into Walmart's Supply Chain Performance and Digital Trends,"** focuses on analyzing supply chain operations and online consumer behavior using two datasets: **SupplyChainDataset.csv** and **UserAccessLogs.csv**. The supply chain dataset provides insights into **sales, logistics, and delivery performance**, while the digital access logs capture **customer interactions and online preferences**.  
 
-DataCo Analysis Group, a leading consultancy in business analytics, specializes in providing comprehensive insights into various industry sectors. This case study, "Streamline & Spotlight," focuses on the intersection of supply chain operations and digital consumer behavior. With a detailed dataset encompassing supply chain metrics (DataCoSupplyChainDataset.csv) and digital access logs (TokenizedAccessLogs.csv), DataCo Analysis Group plays an instrumental role in helping businesses optimize their operations and understand digital engagement. The supply chain dataset offers insights into sales, logistics, and delivery performance, while the access logs shed light on consumer online interactions and preferences. In an era where efficient supply chain management and robust digital presence are crucial for business success, analyzing these datasets becomes imperative to uncover strategies for operational excellence and enhanced digital outreach.
+By examining these datasets, this study aims to uncover strategies for **streamlining logistics, optimizing inventory management, and enhancing digital marketing efforts**. Given the increasing importance of **efficient supply chain networks and a strong digital presence**, data-driven insights will be pivotal in driving operational excellence and improving customer engagement.  
 
-### **Objective:**
+#### **Objective:**  
 
-The objective of this case study is to conduct an in-depth analysis of the combined supply chain and digital access datasets provided by DataCo Analysis Group. Students will utilize advanced Excel techniques to dissect these datasets, revealing key patterns and insights. The primary tasks include data cleaning, integration, analysis, and the development of a comprehensive, interactive dashboard. This dashboard will serve as a critical tool in visualizing supply chain efficiencies, customer engagement metrics, and the synergy between them. The project aims to augment DataCo Analysis Group's consulting capabilities, offering actionable insights to clients for optimizing supply chain processes and improving digital marketing strategies. This analysis is also expected to contribute to a broader understanding of how supply chain and online consumer behavior are interlinked, thereby influencing strategic decisions in product management, marketing, and customer relationship management.
+The goal of this analysis is to leverage **advanced Excel techniques** to process, integrate, and analyze Walmart’s supply chain and digital access data. Key tasks include:  
+
+- **Data Cleaning & Integration** – Handling missing values, transforming data types, and merging datasets for seamless analysis.  
+- **KPI Development** – Defining key performance indicators (KPIs) such as **profit margins, delivery efficiency, product popularity, and online traffic patterns**.  
+- **Interactive Dashboard Creation** – Building a **dynamic Excel dashboard** with visualizations to track **sales trends, order fulfillment efficiency, and customer engagement metrics**.  
+
+This study aims to empower Walmart with **actionable insights** to refine its **supply chain strategy and digital outreach**, ensuring **better inventory planning, faster deliveries, and improved customer satisfaction**. The findings will also support strategic decisions in **product management, digital marketing, and customer relationship management**, reinforcing Walmart’s position as a leader in the retail industry.
 
 ### **Data Source:**
 
