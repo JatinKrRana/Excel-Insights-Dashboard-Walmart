@@ -1,6 +1,9 @@
 ### **Excel Insights Into Walmart's Supply Chain Performance and Digital Trends**  
 Project Link:- https://drive.google.com/drive/folders/1vRb_orNtJ9DT7G52GbS1d4VJfKtbarXP?usp=sharing
 
+![walmart](https://github.com/user-attachments/assets/f1ab3a9a-d86e-41e6-9bf1-09ba1fdeb752)
+
+
 #### **Background:**  
 
 Walmart, a global retail giant, continuously seeks to enhance its supply chain efficiency and digital engagement to stay competitive. This case study, **"Excel Insights Into Walmart's Supply Chain Performance and Digital Trends,"** focuses on analyzing supply chain operations and online consumer behavior using two datasets: **SupplyChainDataset.csv** and **UserAccessLogs.csv**. The supply chain dataset provides insights into **sales, logistics, and delivery performance**, while the digital access logs capture **customer interactions and online preferences**.  
